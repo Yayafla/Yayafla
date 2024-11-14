@@ -1,7 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Flagothier Yarno</h1>
-<h3 align="center">An enthusiastic backend developer from Belgium, deeply passionate about Java.</h3>
-
-- 🌱 I’m currently learning **Forge Modding**
+<h3 align="center">An enthusiastic developer from Belgium, deeply passionate about programming.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
